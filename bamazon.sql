@@ -30,4 +30,4 @@ VALUES
     (007, "jordan_7", "baseball", 150.99, 3),
     (008, "jordan_8", "basketball", 150.99, 10),
     (009, "jordan_9", "basketball", 150.99, 9),
-    (0010, "jordan_10", "basketball", 150.99, 4) 
+   (0010, "jordan_10", "basketball", 150.99, 4) 
