@@ -40,11 +40,6 @@ function startPrompt() {
     }])
 
 }
-
-
-
-
-
 var displayProducts = function () {
     var query = "Select * FROM products";
     connection.query(query, function (err, res) {
