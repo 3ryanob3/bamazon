@@ -62,7 +62,6 @@ var displayProducts = function () {
         purchasePrompt();
     });
 }
-
 function purchasePrompt() {
     inquirer.prompt([{
             name: "ID",
