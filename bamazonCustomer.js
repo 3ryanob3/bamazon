@@ -35,7 +35,7 @@ function startPrompt() {
         type: "confirm",
         name: "confirm",
         message: "Welcome to Bamazon! Would you like to view our inventory?",
-        default: true
+        default: true 
 
     }])
 
